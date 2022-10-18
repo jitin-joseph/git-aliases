@@ -13,6 +13,7 @@ alias gch='git checkout'
 alias gm='git merge'
 alias gst='git status'
 
+
 for Powershell
 C:\Users\[Computer name]\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 
@@ -42,4 +43,7 @@ New-Alias -Force -Name gmr -Value GitMerge
 
 function GitStatus {git status}
 New-Alias -Force -Name gst -Value GitStatus
+
+
+![image](https://user-images.githubusercontent.com/62872551/196407120-005b1572-11b1-4a88-802f-db77a6701986.png)
 
