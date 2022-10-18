@@ -1,7 +1,8 @@
 # git-aliases
 
-for git bash
-C:\Program Files\Git\etc\profile.d\aliases.sh
+**for git bash
+**C:\Program Files\Git\etc\profile.d\aliases.sh
+****
 
 alias ga='ga'
 alias gaa='git add .'
@@ -14,8 +15,8 @@ alias gm='git merge'
 alias gst='git status'
 
 
-for Powershell
-C:\Users\[Computer name]\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
+**for Powershell
+C:\Users\[Computer name]\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1**
 
 function GitAdd {git add}
 New-Alias -Force -Name ga -Value GitAdd
